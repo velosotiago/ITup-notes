@@ -24,3 +24,5 @@ function BinarySearch(list, value) {
   return middle;
 }
 ```
+
+Teste!
